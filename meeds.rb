@@ -4,7 +4,7 @@ class Meeds < Formula
   url "https://github.com/Meeds-io/meeds/releases/download/1.1.1/meeds-tomcat-standalone-1.1.1.zip"
   mirror "https://repository.exoplatform.org/content/groups/public/io/meeds/distribution/plf-community-tomcat-standalone/1.1.0/plf-community-tomcat-standalone-1.1.0.zip"
   sha256 "6a12de185c882b76b72dfa0e00b2561bc090696f87585d59d8d75d96176b9073"
-  license "Apache-2.0"
+  license "LGPL-3.0"
 
   bottle :unneeded
 
