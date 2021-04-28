@@ -1,9 +1,9 @@
 class Meeds < Formula
   desc "Meeds Public Distribution"
   homepage "https://github.com/meeds-io/meeds"
-  url "https://github.com/Meeds-io/meeds/releases/download/1.1.1/meeds-tomcat-standalone-1.1.1.zip"
-  mirror "https://repository.exoplatform.org/content/groups/public/io/meeds/distribution/plf-community-tomcat-standalone/1.1.0/plf-community-tomcat-standalone-1.1.0.zip"
-  sha256 "6a12de185c882b76b72dfa0e00b2561bc090696f87585d59d8d75d96176b9073"
+  url "https://github.com/Meeds-io/meeds/releases/download/1.1.2-RC01/meeds-tomcat-standalone-1.1.2-RC01.zip"
+  mirror "https://repository.exoplatform.org/content/groups/public/io/meeds/distribution/plf-community-tomcat-standalone/1.1.2-RC01/plf-community-tomcat-standalone-1.1.2-RC01.zip"
+  sha256 "29506fa2674948c179166d894928ecd5d37c2ac77d66edf33b76aba7551ee003"
   license "LGPL-3.0"
 
   bottle :unneeded
